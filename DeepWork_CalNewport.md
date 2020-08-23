@@ -4,7 +4,7 @@ CAVEATS:
 	* This is not a true summary. It contains only the information that was useful or interesting to me, personally. 
 	* I've stripped all context from the source. The actual book effectively backs up suggestions with anecdotes, interviews and stories.  
 
-KEY
+KEY:
 [D] - Definition explicitly given; sometimes modified for brevity
 [T] - Tip, Tactic, Tangibles; explicit advice or instruction from author
 [Q] - Quote; a direct quote from a third-party included within the narrative. Usually verbatim. 
